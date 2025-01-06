@@ -30,4 +30,8 @@ uv run streamlit run app.py
 
 5. Open your browser and go to `http://localhost:8501` to view the app.
 
+6. Upload an image or take a selfie using your webcam to analyze your face for features like emotion, age, gender, and race.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
