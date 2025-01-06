@@ -3,12 +3,13 @@ DeepFace Streamlit
 
 This app uses [DeepFace](https://github.com/serengil/deepface) to analyze your face and display the results in a Streamlit app.
 
+![./app-image.png](./app-image.png)
 
 ## How to run
 
 1. Clone the repository
 ```bash
-git clone <repo_url>
+git clone https://github.com/simonsanvil/deepface-streamlit
 ```
 
 2. Navigate to the cloned directory
@@ -28,3 +29,5 @@ uv run streamlit run app.py
 ```
 
 5. Open your browser and go to `http://localhost:8501` to view the app.
+
+
