@@ -3,7 +3,7 @@
 tests/tmp/
 
 # Requirements without uv
-requirements.txt
+# requirements.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
